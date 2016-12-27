@@ -49,6 +49,8 @@ public class MainActivity extends AppCompatActivity {
         checkVersionTask.run();
     }
 
+    
+
     /*
  * 获取当前程序的版本号
  */
