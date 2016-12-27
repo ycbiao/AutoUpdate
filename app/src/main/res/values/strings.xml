@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">AutoUpdate</string>
     <string name="vername">1.0</string>
-    <string name="serverurl">AutoUpdate</string>
+    <string name="serverurl">192.168.0.1</string>
 </resources>
